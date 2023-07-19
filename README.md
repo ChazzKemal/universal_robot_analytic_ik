@@ -105,3 +105,7 @@ For setting up the MoveIt! nodes to allow motion planning run:
 For starting up RViz with a configuration including the MoveIt! Motion Planning plugin run:
 
 ```roslaunch ur5_moveit_config moveit_rviz.launch```
+
+For running inverse kinematic demo run :
+
+```python3 ikmbali.py```
