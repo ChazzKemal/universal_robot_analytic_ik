@@ -109,3 +109,5 @@ For starting up RViz with a configuration including the MoveIt! Motion Planning 
 For running inverse kinematic demo run :
 
 ```python3 ikmbali.py```
+
+https://github.com/ChazzKemal/universal_robot_analytic_ik/assets/71472091/3a1c788d-e625-4007-9a72-32ed1b3d3fac
